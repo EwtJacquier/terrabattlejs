@@ -1,4 +1,4 @@
-import battle from './battle/battle';
+import battle from './battle/battle.js';
 
 class Game {
     setBattle(battle){
